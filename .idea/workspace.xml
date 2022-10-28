@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2781e21d-6795-4bb5-b2c8-c7cc0c56de82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/blue_sky.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ship.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/game_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/rocket/rocket_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/rocket/rocket_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pixelcarpack_kenney.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/riot.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alien_invasion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +53,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\m251710\Desktop\EW200\Labs\Lab 7\alien_invasion\homework\rocket" />
       <recent name="C:\Users\m251710\Desktop\EW200\Labs\Lab 7\alien_invasion" />
       <recent name="C:\Users\m251710\Desktop\EW200\Labs\Lab 7\alien_invasion\images" />
     </key>
